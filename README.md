@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berk aka Purge</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purge11&label=Profile%20views&color=0e75b6&style=flat" alt="purge11" /> </p>
 
